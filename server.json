@@ -23,6 +23,21 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 5,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Moda 2dsadas",
+      "price": "20",
+      "description": "Uma descroção"
+    },
+    {
+      "id": 6,
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Macarrão",
+      "price": "15.90",
+      "description": "Macarrão hmmmmmmmmmmmmmmmmmmmm"
     }
   ]
 }
